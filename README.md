@@ -1,6 +1,5 @@
 # Smart Rental Management System (Diyar)
 Software Engineering project for rental management, maintenance requests, emergency alerts, and tenant-landlord communication.
-# Smart Rental Management System (Diyar)
 
 ## Overview
 Diyar is a smart rental management system designed to help landlords and tenants manage property listings, maintenance requests, emergency alerts, communication, notifications, ratings, and rental-related updates.
