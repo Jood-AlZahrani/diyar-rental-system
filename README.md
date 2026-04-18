@@ -1,4 +1,4 @@
-# diyar-rental-system
+# Smart Rental Management System (Diyar)
 Software Engineering project for rental management, maintenance requests, emergency alerts, and tenant-landlord communication.
 # Smart Rental Management System (Diyar)
 
